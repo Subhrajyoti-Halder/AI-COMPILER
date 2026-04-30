@@ -1,0 +1,41 @@
+ai_compiler/
+│
+├── app.py
+│
+├── pipeline/
+│   ├── __init__.py
+│   ├── intent_extractor.py
+│   ├── system_designer.py
+│   ├── schema_generator.py
+│   ├── refinement_engine.py
+│   ├── validator.py
+│   ├── repair_engine.py
+│   ├── executor.py
+│   └── orchestrator.py
+│
+├── schemas/
+│   ├── __init__.py
+│   ├── intent_schema.py
+│   ├── design_schema.py
+│   └── final_schema.py
+│
+├── runtime/
+│   ├── __init__.py
+│   ├── code_generator.py
+│   ├── db_generator.py
+│   └── app_runner.py
+│
+├── utils/
+│   ├── __init__.py
+│   ├── llm.py
+│   ├── parser.py
+│   └── logger.py
+│
+├── evaluation/
+│   ├── test_prompts.json
+│   ├── benchmark.py
+│   └── metrics.py
+│
+├── .env
+├── requirements.txt
+└── README.md
