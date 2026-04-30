@@ -131,26 +131,25 @@ This ensures:
 ## ▶️ How to Run
 
 ### 1. Clone Repo :
+https://github.com/Subhrajyoti-Halder/AI-COMPILER/tree/main
 
-
-2. Install Dependencies :
+### 2. Install Dependencies :
 pip install -r requirements.txt
 
-3. Add Environment Variables
-
+### 3. Add Environment Variables :
 Create .env file:
 GROQ_API_KEY=your_api_key
 MODEL_NAME=llama-3.3-70b-versatile
 
-4. Run App :
+### 4. Run App :
 streamlit run app.py
 
-🧪 Example Input: 
+## 🧪 Example Input :
 Build a CRM with login, contacts, dashboard,
 role-based access, premium plan with payments.
 Admins can see analytics.
 
-📊 Example Output:
+## 📊 Example Output :
    Structured JSON across all stages
    Validation issues detected
    Auto-repair applied
