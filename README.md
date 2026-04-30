@@ -150,7 +150,7 @@ role-based access, premium plan with payments.
 Admins can see analytics.
 
 ## 📊 Example Output :
-   Structured JSON across all stages
-   Validation issues detected
-   Auto-repair applied
-   Final consistent schema
+   - Structured JSON across all stages
+   - Validation issues detected
+   - Auto-repair applied
+   - Final consistent schema
