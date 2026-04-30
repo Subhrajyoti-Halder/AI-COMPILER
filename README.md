@@ -138,8 +138,8 @@ pip install -r requirements.txt
 
 ### 3. Add Environment Variables :
 Create .env file:
-GROQ_API_KEY=your_api_key
-MODEL_NAME=llama-3.3-70b-versatile
+ -GROQ_API_KEY=your_api_key
+ -MODEL_NAME=llama-3.3-70b-versatile
 
 ### 4. Run App :
 streamlit run app.py
